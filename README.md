@@ -4,6 +4,5 @@
 
 **Silero VAD** - pre-trained enterprise-grade [Voice Activity Detector](https://en.wikipedia.org/wiki/Voice_activity_detection) by [Silero](https://github.com/snakers4/silero-vad)
 <p  align="center">
-```
-<img alt="alt_text" src="screenshot.PNG" />
+<img alt="alt_text" src="https://github.com/dkakaie/SileroVAD/blob/master/screenshot.png?raw=true" />
 </p>
